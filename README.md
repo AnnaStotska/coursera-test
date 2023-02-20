@@ -1,3 +1,3 @@
 # coursera-test
 Coursera test repository
-remote_theme: Cayman
+remote_theme: pages-themes/cayman@v0.2.0
